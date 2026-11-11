@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 A small C counting tool with a secret built in game with achievements
-=======
 # Counter
 
 A small C counting tool with a secret built-in game and achievements.
@@ -36,4 +34,3 @@ bash
 - Minimum 50 IQ
 
 See the LICENSE file for licensing information.
->>>>>>> cb30186009baf6d6a7c962ce62d55ebc0c4308ef
